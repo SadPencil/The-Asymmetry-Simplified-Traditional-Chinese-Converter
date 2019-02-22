@@ -4,6 +4,8 @@
 
 Copyright © 2012-2019 Sad Pencil &lt;me@pencil.live&gt;
 
+适用于 .NET 2.0 和 .NET 4.0 的可执行文件均可点击 [这里](https://github.com/SadPencil/The-Asymmetry-Simpled-Traditional-Chinese-Converter/releases) 下载。
+
 ## 介绍
 
 　　在计算机领域，繁简转换是一件令人十分头痛的事情。
