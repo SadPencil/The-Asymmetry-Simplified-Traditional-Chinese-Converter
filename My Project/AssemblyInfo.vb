@@ -14,7 +14,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("The Asymmetry Simpled-Traditional Converter")>
-<Assembly: AssemblyCopyright("Copyright © 2012-2019 Sad Pencil <me@pencil.live>")>
+<Assembly: AssemblyCopyright("Copyright © 2012-2019 SadPencil <sadpencil@outlook.com>")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)> 

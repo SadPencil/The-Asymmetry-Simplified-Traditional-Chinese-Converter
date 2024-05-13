@@ -2,7 +2,7 @@
 
 本项目在 2013 年 10 月停止开发。源代码以 MIT 协议开源。
 
-Copyright © 2012-2019 Sad Pencil &lt;me@pencil.live&gt;
+Copyright © 2012-2019 SadPencil &lt;sadpencil@outlook.com&gt;
 
 适用于 .NET 2.0 和 .NET 4.0 的可执行文件均可点击 [这里](https://github.com/SadPencil/The-Asymmetry-Simpled-Traditional-Chinese-Converter/releases) 下载。
 
